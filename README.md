@@ -15,6 +15,7 @@
 + `https://XXX/用户名/仓库名/分支名/资源路径`
 
 + `https://raw.githubusercontent.com/buzhidaoGH/repository/master/资源路径`
++ `https://raw.gitmirror.com/buzhidaoGH/repository/master/资源路径`
 + `https://raw.fastgit.org/buzhidaoGH/repository/master/资源路径`
 + `https://raw.sevencdn.com/buzhidaoGH/repository/master/资源路径`
 + `https://raw.staticdn.net/buzhidaoGH/repository/master/资源路径`
