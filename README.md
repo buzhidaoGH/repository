@@ -1,14 +1,23 @@
-# repository
+# Github
+
+## repository
+
 存储项目静态资源仓库(repository)
 
 可以通过CDN加速服务器访问(仓库名@XXX)代表仓库分支,默认是@master
 
 + `https://XXX/gh/用户名/仓库名@XXX/资源路径`
+
 + `https://cdn.jsdelivr.net/gh/buzhidaoGH/repository/资源路径`
-+ `https://test1.jsdelivr.net/gh/buzhidaoGH/repository/资源路径`
-+ `https://testingcf.jsdelivr.net/gh/buzhidaoGH/repository/资源路径`
-+ `https://fastly.jsdelivr.net/gh/buzhidaoGH/repository/资源路径`
-+ `https://gcore.jsdelivr.net/gh/buzhidaoGH/repository/资源路径`
+
++ ```
+  1. jsd.cdn.gitkf.com 完美
+  2. testingcf.jsdelivr.net 完美
+  4. cdn.jsdelivr.us 优秀
+  5. fastly.jsdelivr.net 优秀
+  6. gcore.jsdelivr.net 一般
+  0. test1.jsdelivr.net 报错
+  ```
 
 默认github资源镜像raw加速
 
@@ -20,7 +29,7 @@
 + `https://raw.sevencdn.com/buzhidaoGH/repository/master/资源路径`
 + `https://raw.staticdn.net/buzhidaoGH/repository/master/资源路径`
 
-# 加速方式
+## 加速方式
 
 + 使用Watt ToolKit加速
 
@@ -69,3 +78,12 @@
   $ git config --global --unset url.https://github.com/.insteadof 
   ```
 
+# Gitee
+
+## repository
+
+国内使用的仓库:具体核心为gitee的Pages工程
+
++ Page默认绑定的是master分支;且需要手动提交更新
+
++ 访问方式为:`Pages： http://buzhidaogh.gitee.io/repository/资源路径`
