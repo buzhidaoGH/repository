@@ -85,5 +85,10 @@
 国内使用的仓库:具体核心为gitee的Pages工程
 
 + Page默认绑定的是master分支;且需要手动提交更新
-
 + 访问方式为:`Pages： http://buzhidaogh.gitee.io/repository/资源路径`
+
+或者raw访问方式
+
++ `https://gitee.com/XXX用户名称/XXX仓库名称/raw/分支版本/资源路径`
+
++ `https://gitee.com/buzhidaoGH/repository/raw/master/资源路径`
