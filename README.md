@@ -11,23 +11,40 @@
 + `https://cdn.jsdelivr.net/gh/buzhidaoGH/repository/资源路径`
 
 + ```
+  前端动态切换CDN(script标签的onerror|onload方法监听)
+  //  <script src="默认链接地址" onerror="函数">
+  //  script对象的onerror函数
   1. jsd.cdn.gitkf.com 完美
+  1. jsd.cdn.zzko.cn 完美 （由54ayao提供，稳如老狗，推荐）
   2. testingcf.jsdelivr.net 完美
-  4. cdn.jsdelivr.us 优秀
-  5. fastly.jsdelivr.net 优秀
+  3. cdn.jsdelivr.us 优秀
+  4. jsdelivr.codeqihan.com 优秀
+  4. originfastly.jsdelivr.net 优秀 官方
+  5. fastly.jsdelivr.net 优秀			官方
   6. gcore.jsdelivr.net 一般
+  7. cdn.bili33.top 一般
   0. test1.jsdelivr.net 报错
   ```
 
 默认github资源镜像raw加速
 
 + `https://XXX/用户名/仓库名/分支名/资源路径`
-
 + `https://raw.githubusercontent.com/buzhidaoGH/repository/master/资源路径`
 + `https://raw.gitmirror.com/buzhidaoGH/repository/master/资源路径`
 + `https://raw.fastgit.org/buzhidaoGH/repository/master/资源路径`
 + `https://raw.sevencdn.com/buzhidaoGH/repository/master/资源路径`
 + `https://raw.staticdn.net/buzhidaoGH/repository/master/资源路径`
+
+github镜像文件加速
+
++ https://moeyy.cn/gh-proxy 文件加速
++ https://gh.api.99988866.xyz/ 文件加速
++ https://github.zhlh6.cn/ 仓库加速
++ https://hub.nuaa.cf/ 镜像网站
++ https://hub.yzuu.cf/ 镜像网站
++ https://github.ur1.fun/ 文件加速
++ https://raw.gitmirror.com
++ https://raw.fgit.cf
 
 ## 加速方式
 
