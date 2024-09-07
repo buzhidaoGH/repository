@@ -24,6 +24,11 @@
   6. gcore.jsdelivr.net 一般
   7. cdn.bili33.top 一般
   0. test1.jsdelivr.net 报错
+  0. https://cdn.jsdelivr.net （官方默认加速）
+  0. https://Fastly.jsdelivr.net （官方默认加速）
+  0. https://jsd.cdn.zzko.cn
+  0. https://cdn.jsdelivr.us
+  0. https://cdn.jsdmirror.com
   ```
 
 默认github资源镜像raw加速
@@ -37,10 +42,10 @@
 
 github镜像文件加速
 
-+ https://moeyy.cn/gh-proxy 文件加速
-+ https://gh.api.99988866.xyz/ 文件加速
-+ https://github.zhlh6.cn/ 仓库加速
-+ https://hub.nuaa.cf/ 镜像网站
++ https://moeyy.cn/gh-proxy 文件加速
++ https://gh.api.99988866.xyz/ 文件加速
++ https://github.zhlh6.cn/ 仓库加速
++ https://hub.nuaa.cf/ 镜像网站
 + https://hub.yzuu.cf/ 镜像网站
 + https://github.ur1.fun/ 文件加速
 + https://raw.gitmirror.com
