@@ -1,4 +1,16 @@
-# Github
+# Repository | Git存储库
+
+<font color="red" size=3>通过Git仓库存储来达到资源存储仓库的目的(Github|Gitee)</font>
+
+## 访问 | Access
+
+**Github**
+
++ 原始:https://raw.githubusercontent.com/UserName/RepoName@Branch
+
+**Gitee**
+
+
 
 ## repository
 
@@ -99,6 +111,8 @@ github镜像文件加速
   # 取消设置 
   $ git config --global --unset url.https://github.com/.insteadof 
   ```
+
+
 
 # Gitee
 
